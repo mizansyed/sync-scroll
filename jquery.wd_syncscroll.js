@@ -2,8 +2,7 @@
  *
  *
  * Copyright 2013, Mizan Syed, With Digital
- * Licensed under the Apache License, Version 2.0
- * Read licence.txt and notice.txt for info
+ * Read licence.txt for info
  */
 
 
