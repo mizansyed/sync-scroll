@@ -1,9 +1,7 @@
-sync-scroll
+Sync Scroll
 ===========
 
-Sync Scroll
-
-Sync two scroll bars in a window
+Sync scrolls for multiple DIVs vertically and horizontally
 
 ## Usage
     
