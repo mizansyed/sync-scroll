@@ -1,7 +1,7 @@
 Sync Scroll
 ===========
 
-Sync scrolls for multiple DIVs vertically and horizontally
+Syncronise scrolls for multiple DIVs vertically and horizontally
 
 ## Usage
     
