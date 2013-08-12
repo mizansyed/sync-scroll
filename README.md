@@ -1,7 +1,7 @@
 Sync Scroll
 ===========
 
-Syncronise scrolls for multiple DIVs vertically and horizontally
+Syncronise scrolls for multiple DIVs vertically and horizontally. This is useful when you want to compare content side by side.
 
 ## Usage
     
@@ -19,8 +19,8 @@ Syncronise scrolls for multiple DIVs vertically and horizontally
 The following options are available (default shown below) :
 
 		overflow: 'auto', 
-		height: false,
-		width: false,
+		height: false, //define height for the scroll window (it will override any css defined values)
+		width: false, //define width for the scroll window (it will override any css defined values)
 		group: 'wd'
 
 		
